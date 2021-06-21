@@ -1,0 +1,7 @@
+# Create a server based application and set homepage url and authorized redirect uris to the redirect uri
+# and copy the client id and secret below
+
+zoho:
+  client_id: ''
+  client_secret: ''
+redirect_uri: 'https://example.com' #do not change
