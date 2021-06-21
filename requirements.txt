@@ -1,0 +1,13 @@
+asgiref==3.3.4
+certifi==2020.12.5
+chardet==4.0.0
+Django==3.2.3
+emoji==1.2.0
+idna==2.10
+pick==1.0.0
+pytz==2021.1
+requests==2.25.1
+slack-sdk==3.5.1
+slacker==0.14.0
+sqlparse==0.4.1
+urllib3==1.26.4
